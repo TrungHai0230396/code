@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "536329254601",
+    "firebase_url": "https://mapfirebase-9133c.firebaseio.com",
+    "project_id": "mapfirebase-9133c",
+    "storage_bucket": "mapfirebase-9133c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:536329254601:android:3c16c0236b8c38b5",
+        "android_client_info": {
+          "package_name": "com.trunghai.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "536329254601-c4btfn13pdksk25b9en80bm9i0jk3tnj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYzeoEAYAa_ARLqBe162fGqbAloDPFd-w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
